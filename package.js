@@ -1,6 +1,6 @@
 Package.describe({
   name: "emdagon:bootstrap-multiselect",
-  version: "0.0.1",
+  version: "0.0.2",
   summary: "Bootstrap Multiselect wrapper for Meteor",
   git: "https://github.com/emdagon/meteor-bootstrap-multiselect.git",
   documentation: "README.md"
