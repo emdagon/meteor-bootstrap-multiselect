@@ -8,7 +8,7 @@ Package.describe({
 
 Package.onUse(function(api) {
   api.versionsFrom("1.0");
-  api.use(['standard-app-packages', 'templating'], 'client');
+  api.use(['templating'], 'client');
   api.addFiles([
     "bootstrap-multiselect/dist/js/bootstrap-multiselect.js",
     "bootstrap-multiselect/dist/css/bootstrap-multiselect.css",
